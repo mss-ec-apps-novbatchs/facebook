@@ -1,3 +1,6 @@
-this file ciontainta string
+This file contains the string utilities
+
+
+
 
 
